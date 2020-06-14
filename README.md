@@ -15,14 +15,14 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 <table>
  <tr>
-   <td> <img src="./Screenshots/flutter_01.png" alt="Recipes UI" width="400"/> </td> 
-   <td> <img src="./Screenshots/flutter_02.png" alt="Recipes UI" width="400"/> </td> 
-   <td> <img src="./Screenshots/flutter_03.png" alt="Recipes UI" width="400"/> </td> 
+   <td> <img src="./screenshot/flutter_01.png" alt="Recipes UI" width="400"/> </td> 
+   <td> <img src="./screenshot/flutter_02.png" alt="Recipes UI" width="400"/> </td> 
+   <td> <img src="./screenshot/flutter_03.png" alt="Recipes UI" width="400"/> </td> 
  </tr>
  <tr>
-   <td> <img src="./Screenshots/flutter_04.png" alt="Recipes UI" width="400"/> </td> 
-   <td> <img src="./Screenshots/flutter_05.png" alt="Recipes UI" width="400"/> </td> 
-   <td> <img src="./Screenshots/flutter_06.png" alt="Recipes UI" width="400"/> </td> 
+   <td> <img src="./screenshot/flutter_04.png" alt="Recipes UI" width="400"/> </td> 
+   <td> <img src="./screenshot/flutter_05.png" alt="Recipes UI" width="400"/> </td> 
+   <td> <img src="./screenshot/flutter_06.png" alt="Recipes UI" width="400"/> </td> 
  </tr>
 </table>
 
@@ -59,5 +59,5 @@ Steps to run the application
 
 
 ## Recipes Application
-Download Recipes Application. [android](./apk/app-release.apk)
+Download Recipes [Android Application](./apk/app-release.apk)
 
