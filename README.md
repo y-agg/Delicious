@@ -31,13 +31,13 @@ Steps to run the application
 
 ### 1. run the following command in terminal 
 
-> git clone https://github.com/y-agg/RecipieApplication.git && cd RecipieApplication
+> git clone https://github.com/y-agg/Delicious.git && cd Delicious
 > start .
 
 ### 2. Copy lib, assests, pubspec.yaml folder from ExpenseTracker folder to <Your Application Name> folder
 
-### 3. change directory to RecipieApplication
-> cd RecipieApplication
+### 3. change directory to Delicious
+> cd Delicious
 
 ### 4. Run the Application
 > flutter run 
