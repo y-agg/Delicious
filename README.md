@@ -54,7 +54,7 @@ Steps to run the application
 * Navigation Bar
 * Recipes Details Screen
 * Responsiveness, Work on any devices 
-* Even work in landscape mord
+* Even work in landscape mode
 * Better UI
 
 
